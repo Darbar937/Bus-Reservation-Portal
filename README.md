@@ -36,10 +36,7 @@
 
 ## Contributors
 
-* Nikhil Bhardwaj
-* Sandhya Potadar
-* Yuvraj Rajarawal
-* Dheeraj Pandey
+* Shaik Darbar Basha
 
 ## Installation & Run
 
